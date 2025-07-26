@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "100766979763",
+    "project_id": "healthy-c1887",
+    "storage_bucket": "healthy-c1887.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100766979763:android:d626852ce4ee6218a282c6",
+        "android_client_info": {
+          "package_name": "com.example.tree_gamification_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIQzTFNPlDiouqv3Q5nG_4XiulJZnpwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
